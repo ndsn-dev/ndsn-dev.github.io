@@ -4,11 +4,15 @@ html, body {
     background-color: #121212;
     margin: 0;
     padding: 0; }
-  
+
   h1, h2, h3, h4, h5, h6 {
     font: 800 120%/1.2 "Futura Bk Bt", sans-serif;
     margin: 1em 0; }
   
+    .h2 .h2_stylings {
+      color: #22a6aa;
+    }
+
   ::selection {
     background-color: #FF0064;
     color: white; }
