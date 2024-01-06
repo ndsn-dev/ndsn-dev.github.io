@@ -376,7 +376,7 @@ img {
   .footer h2 {
     font-weight: 700;
     font-size: 1em;
-    font-family: "Futura Bk Bt", serif;
+    font-family: "Futura Bk Bt", sans-serif;
   }
 
 @media screen and (min-width: 1024px) {
