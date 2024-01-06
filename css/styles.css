@@ -111,7 +111,7 @@ img {
 
 .navigation-container {
   display: flex;
-  max-width: 1240px;
+  max-width: 1519px;
   margin-right: auto;
   margin-left: auto;
   padding: 16px 32px;
@@ -365,7 +365,7 @@ img {
 .footer {
   display: flex;
   border-radius: 999px;
-  max-width: 1240px;
+  max-width: 200px;
   margin-right: auto;
   margin-left: auto;
   padding: 16px 32px;
