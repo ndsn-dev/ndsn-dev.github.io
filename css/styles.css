@@ -345,7 +345,7 @@ img {
 .about {
   max-width: 60em; }
   .about p {
-    font-family: "Futura Bk Bt", serif; }
+    font-family: "Futura Bk Bt", sans-serif; }
 
 .elsewhere__list {
   list-style: none;
