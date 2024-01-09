@@ -204,7 +204,7 @@ img {
   .intro__intro {
     max-width: 50em;
     color: rgba(255, 255, 255, 0.7);
-    font-family: "Futura Bk Bt", serif; }
+    font-family: "Futura Bk Bt", sans-serif; }
   /* .intro:hover h1, .intro:hover h1 em, .intro:hover h2, .intro:hover .intro__intro .intro_contact:hover h2{
     color: #222222; } */
 
