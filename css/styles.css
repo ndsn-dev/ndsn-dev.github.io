@@ -48,7 +48,8 @@ img {
 .profileimg {
   width: 20%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 100%;
+  align-self: center;
  }
   .header, .section, .footer {
   padding: 1em 7vw; }
